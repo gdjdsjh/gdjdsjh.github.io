@@ -1,7 +1,9 @@
 ---
 title: PaperTest
 date: 2018-10-31 11:12:41
-tags: test
+tags: 
+- test1
+- test2
 ---
 
 ### PaperTest
